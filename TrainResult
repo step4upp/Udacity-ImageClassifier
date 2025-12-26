@@ -1,0 +1,26 @@
+Set to the default architecture: vgg16
+Setting to the default hidden units: 4096
+No learning rate input: default rate = 0.001
+Underdoing with default epoch: 5
+Eploch 1/5Train loss: 6.156Test loss: 2.537Test accuracy: 0.435
+Eploch 1/5Train loss: 2.593Test loss: 1.298Test accuracy: 0.664
+Eploch 1/5Train loss: 2.080Test loss: 1.006Test accuracy: 0.733
+Eploch 1/5Train loss: 1.779Test loss: 0.864Test accuracy: 0.765
+Eploch 2/5Train loss: 1.277Test loss: 0.739Test accuracy: 0.799
+Eploch 2/5Train loss: 1.582Test loss: 0.666Test accuracy: 0.817
+Eploch 2/5Train loss: 1.411Test loss: 0.703Test accuracy: 0.801
+Eploch 2/5Train loss: 1.448Test loss: 0.587Test accuracy: 0.837
+Eploch 3/5Train loss: 0.978Test loss: 0.579Test accuracy: 0.863
+Eploch 3/5Train loss: 1.289Test loss: 0.521Test accuracy: 0.860
+Eploch 3/5Train loss: 1.339Test loss: 0.570Test accuracy: 0.838
+Eploch 3/5Train loss: 1.276Test loss: 0.549Test accuracy: 0.852
+Eploch 4/5Train loss: 0.815Test loss: 0.498Test accuracy: 0.869
+Eploch 4/5Train loss: 1.197Test loss: 0.551Test accuracy: 0.848
+Eploch 4/5Train loss: 1.187Test loss: 0.496Test accuracy: 0.872
+Eploch 4/5Train loss: 1.273Test loss: 0.451Test accuracy: 0.872
+Eploch 5/5Train loss: 0.605Test loss: 0.626Test accuracy: 0.843
+Eploch 5/5Train loss: 1.149Test loss: 0.464Test accuracy: 0.878
+Eploch 5/5Train loss: 1.149Test loss: 0.498Test accuracy: 0.859
+Eploch 5/5Train loss: 1.142Test loss: 0.393Test accuracy: 0.891
+Training finished
+Accuracy on test images: 85.592
